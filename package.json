@@ -1,0 +1,20 @@
+{
+  "name": "workbox-push-notifications",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "web-push": "^3.6.7",
+    "workbox-sw": "^7.3.0"
+  },
+  "devDependencies": {
+    "workbox-cli": "^6.6.0"
+  }
+}
